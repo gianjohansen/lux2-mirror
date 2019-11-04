@@ -1,0 +1,179 @@
+{
+  "manifest": {
+    "js": "lux.7eed2698.js"
+  },
+  "POCText": {
+    "js": "POCText.b03ce7a1.js"
+  },
+  "vendors~SimActivation~Wallet": {
+    "js": "vendors~SimActivation~Wallet.ea10d2a8.js"
+  },
+  "Banner": {
+    "js": "Banner.13cfc12f.js"
+  },
+  "Divider": {
+    "js": "Divider.ff8c7c9b.js"
+  },
+  "DynamicScreenContainer": {
+    "css": "DynamicScreenContainer.1be47247.css",
+    "js": "DynamicScreenContainer.1be47247.js"
+  },
+  "Image": {
+    "js": "Image.bc1ef5d3.js"
+  },
+  "OptusHeader": {
+    "js": "OptusHeader.51f0c533.js"
+  },
+  "POCButton": {
+    "css": "POCButton.9b7bba27.css",
+    "js": "POCButton.9b7bba27.js"
+  },
+  "POCContainer": {
+    "js": "POCContainer.c5ecdd1b.js"
+  },
+  "vendors~Banner~Footer~QuickLinks~SimActivation~TilesContainer~Wallet": {
+    "css": "vendors~Banner~Footer~QuickLinks~SimActivation~TilesContainer~Wallet.d850ccc1.css",
+    "js": "vendors~Banner~Footer~QuickLinks~SimActivation~TilesContainer~Wallet.d850ccc1.js"
+  },
+  "QuickLinks": {
+    "js": "QuickLinks.c7168284.js"
+  },
+  "SimActivation": {
+    "js": "SimActivation.f674f99f.js"
+  },
+  "TextField": {
+    "css": "TextField.c522a8f8.css",
+    "js": "TextField.c522a8f8.js"
+  },
+  "TilesContainer": {
+    "js": "TilesContainer.5cd5248e.js"
+  },
+  "Wallet": {
+    "js": "Wallet.18818fd1.js"
+  },
+  "main": {
+    "css": "main.001ede05.css",
+    "js": "main.001ede05.js"
+  },
+  "Footer": {
+    "css": "Footer.d89ac109.css",
+    "js": "Footer.d89ac109.js"
+  },
+  "": {
+    "js": [
+      "19.9e68e677.js",
+      "20.4e7bcefd.js",
+      "21.0f42927a.js",
+      "22.7a9ad730.js",
+      "23.90eedbf2.js",
+      "24.5ac0dff9.js",
+      "25.625f86ed.js",
+      "26.1c1d844e.js",
+      "27.e3d4cc5d.js",
+      "28.ced94cc1.js",
+      "29.15656c4a.js",
+      "3.82b0bf58.js",
+      "30.8cfd6ce3.js",
+      "31.baba3ac5.js",
+      "32.331a6cf7.js",
+      "33.60c9edbf.js",
+      "34.b55539fc.js",
+      "35.50966c0c.js",
+      "36.9932be66.js",
+      "37.487bf966.js",
+      "38.78b3d6bd.js",
+      "39.689f82fb.js",
+      "40.330bd298.js",
+      "41.911ad4e3.js",
+      "42.164ceb0f.js",
+      "43.b10695f5.js",
+      "44.7f159d22.js",
+      "45.88f63a33.js",
+      "46.400c442d.js",
+      "47.e1854446.js",
+      "48.f5d25e50.js",
+      "49.33e0c569.js",
+      "50.b1803e35.js",
+      "51.e7ef8870.js",
+      "52.4ccd79e8.js",
+      "53.6534162a.js",
+      "54.3c097481.js",
+      "55.e929829e.js",
+      "56.88477049.js",
+      "57.bddb7531.js",
+      "58.9387ba50.js",
+      "59.b46a694d.js",
+      "60.0ed508e4.js",
+      "61.a8ef8224.js",
+      "62.81366753.js",
+      "63.004bc56b.js",
+      "64.0eed1eb9.js",
+      "65.e74d445f.js",
+      "66.8c62403e.js",
+      "67.0df6b877.js",
+      "68.8f931017.js"
+    ],
+    "eot": [
+      "AvenirLTStd-Book.46128907.eot",
+      "AvenirLTStd-Heavy.cb445995.eot",
+      "Museo-100.7c3b1885.eot",
+      "Museo-300.fa03e61d.eot",
+      "Museo-500.e20a84a0.eot",
+      "markpro-bold.7bf3e8dd.eot",
+      "markpro-heavy.30c3813b.eot",
+      "markpro-medium.412cd0de.eot",
+      "markpro-thin.361a421c.eot",
+      "markpro.702c0eaa.eot"
+    ],
+    "ttf": [
+      "AvenirLTStd-Book.5653b91e.ttf",
+      "AvenirLTStd-Heavy.a1dda8ed.ttf",
+      "MarkPro-Bold.3cc5dcbc.ttf",
+      "MarkPro-Heavy.d2bdb156.ttf",
+      "MarkPro-Medium.4fd11dce.ttf",
+      "MarkPro.bc0a1340.ttf",
+      "Museo-100.ed4bbec9.ttf",
+      "Museo-300.ece2eb99.ttf",
+      "Museo-500.361abd78.ttf",
+      "lux-icons.f0b1985e.ttf",
+      "markpro-bold.b36bd0ab.ttf",
+      "markpro-heavy.a9c7bfd9.ttf",
+      "markpro-medium.a20bc5df.ttf",
+      "markpro-thin.41d08b34.ttf",
+      "markpro.19a3ebc6.ttf"
+    ],
+    "woff": [
+      "AvenirLTStd-Book.82538550.woff",
+      "AvenirLTStd-Heavy.09e65f85.woff",
+      "Museo-100.d96127b8.woff",
+      "Museo-300.39756af2.woff",
+      "Museo-500.1edde523.woff",
+      "markpro-bold.507b76aa.woff",
+      "markpro-heavy.b7b268c9.woff",
+      "markpro-medium.e8d148d9.woff",
+      "markpro-thin.ab91e665.woff",
+      "markpro.ee10f719.woff"
+    ],
+    "woff2": [
+      "Museo-100.82af76bf.woff2",
+      "Museo-300.78b72ad0.woff2",
+      "Museo-500.9e72aeb7.woff2"
+    ],
+    "png": [
+      "diners.14700102.png",
+      "promo-banner.03523ccb.png",
+      "promo-fetch.26a686fe.png",
+      "promo-sport.1e18a029.png",
+      "tile-1.e73cf893.png",
+      "tile-2.6d0e83fa.png",
+      "tile-3.2fd8b634.png",
+      "tile-4.a6e1c40b.png",
+      "tile-5.29faf8ef.png"
+    ],
+    "html": "index.html"
+  },
+  "metadata": {
+    "name": "web-services",
+    "version": "1.0.35"
+  }
+}

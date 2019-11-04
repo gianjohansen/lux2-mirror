@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{428:function(e,n,t){"use strict";t.r(n);var o=t(0),l=t.n(o);n.default=function(e){var n=e.color,t=void 0===n?null:n;return l.a.createElement("svg",{viewBox:"0 0 256 256",fill:t},l.a.createElement("g",null,l.a.createElement("polygon",{points:"225.813,48.907 128,146.72 30.187,48.907 0,79.093 128,207.093 256,79.093 \t\t"})))}}}]);
+//# sourceMappingURL=27.e3d4cc5d.js.map
